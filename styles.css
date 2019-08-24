@@ -1,0 +1,45 @@
+div.content {
+    padding-left: 2em;
+}
+
+div.column {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+}
+
+div.center {
+    text-align: center;
+}
+
+div.left {
+    text-align: left;
+}
+
+div.right {
+    text-align: right;
+}
+
+div.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+span.bold{
+    font-weight: bold;
+}
+
+span.italic{
+    font-style: italic;
+}
+
+dt.short {
+    float: left;
+    clear: left;
+}
+
+dd.indent {
+    margin: 0 0 0 8em;
+    padding: 0 0 0.5em 0;
+}

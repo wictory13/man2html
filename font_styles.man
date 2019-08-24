@@ -1,0 +1,10 @@
+.BR one two three
+.BI four five six
+.RB "seven eight" nine
+.RI "ten eleven twelve"
+.IB 13 14 15
+.IR file .
+.SB bbbbb
+.SM aaaaaa dfghjhg
+.B \-\-posix
+.I file1 file2

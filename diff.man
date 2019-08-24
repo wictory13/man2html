@@ -1,0 +1,10 @@
+.TH GCC 1 "2018-07-20"
+.Vb 10
+\f(CW\&        c  c\-header  cpp\-output\fP
+.Ve
+.Sp
+.IP "\fB\-x none\fR" 4
+.IX Item "-x none"
+.RS 4
+standard\|_output.
+.RE

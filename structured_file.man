@@ -1,0 +1,11 @@
+.TH BASH 1 2016-08-26 "GNU Bash 4.4"
+.SH NAME
+grep, egrep, fgrep, rgrep
+.SS Simple Commands
+.PP
+A \fIsimple command\fP
+.TP
+Interpret
+.TP 10
+.B %%
+A literal
